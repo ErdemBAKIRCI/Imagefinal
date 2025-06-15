@@ -1,8 +1,8 @@
 # UYG332 Image Processing Final Project
 
 ## Student Info
-- **Name**: <Your Name>
-- **Surname**: <Your Surname>
+- **Name**: Erdem
+- **Surname**: Bakırcı
 - **Student ID**: <Your Student ID>
 
 ## Project Description
