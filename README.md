@@ -3,7 +3,7 @@
 ## Student Info
 - **Name**: Erdem
 - **Surname**: Bakırcı
-- **Student ID**: <Your Student ID>
+- **Student ID**: <B2180.060051>
 
 ## Project Description
 This repository contains the solution for the UYG332 Image Processing Final Project. The tasks are implemented using Python and OpenCV in a single Jupyter Notebook.
